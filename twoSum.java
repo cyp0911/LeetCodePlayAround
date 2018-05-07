@@ -4,7 +4,7 @@
 //Question:     TwoSum
 //Index:        No.1
 //Date:         May-07-2018
-//Complexity:	Time: O(logn)
+//Complexity:	Time: O(logn)	Space: O(n)
 
 import java.util.*;  
 
