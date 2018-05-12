@@ -1,3 +1,11 @@
+//Author:       Yinpeng Chen
+//Question:     Nim Game
+//Index:        No.8
+//Date:         May-07-2018
+//Complexity:	
+//description:	
+
+
 class longestCommonPrefix{
 	
 	public static String commom(String[] test)
