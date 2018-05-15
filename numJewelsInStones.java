@@ -1,3 +1,11 @@
+//Author:       Yinpeng Chen
+//Question:     JewelsInStones
+//Index:        No.9
+//Date:         May-07-2018
+//Complexity:	Brute Force
+//description:	
+
+
 class numJewelsInStones {
     public static int numJewelsInStones(String J, String S) {
         int ans = 0;
